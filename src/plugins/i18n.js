@@ -4,7 +4,7 @@ import en from '../locales/en.json';
 import ar from '../locales/ar.json';
 
 const i18n = createI18n({
-  locale: window.sessionStorage.getItem('app_lang'), // default locale
+  locale: window.sessionStorage.getItem('app_lang') || 'ar', // default locale
   fallbackLocale: 'ar', // fallback locale in case the chosen locale isn't available
   messages: {
     en,

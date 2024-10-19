@@ -39,7 +39,7 @@
   ];
 
   // Set the default selected language
-  const selectedLanguage = ref((languages.filter(item => item.value === window.sessionStorage.getItem('app_lang')))[0] || 'ar');
+  const selectedLanguage = ref((languages.filter(item => item.value === window.sessionStorage.getItem('app_lang')))[0] || languages[0]);
   // console.log(selectedLanguage.value)
   // Toggle dropdown visibility
   const isDropdownOpen = ref(false);
