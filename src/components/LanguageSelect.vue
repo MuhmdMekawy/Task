@@ -34,8 +34,8 @@
   } = useHandleLang()
   // Array of languages with their corresponding images and names
   const languages = [
-    { name: 'العربية', value : 'ar' ,image: '../src/assets/images/ar.png' },
-    { name: 'الإنجليزية', value : 'en' , image: '../src/assets/images/en.png' },
+    { name: 'العربية', value : 'ar' ,image: 'https://static.vecteezy.com/system/resources/previews/003/094/399/large_2x/saudi-arabia-national-flag-illustration-editable-image-vector.jpg' },
+    { name: 'الإنجليزية', value : 'en' , image: 'https://th.bing.com/th/id/OIP.PNnK26lnMu-eTUsd8uM41AHaD9?rs=1&pid=ImgDetMain' },
   ];
 
   // Set the default selected language

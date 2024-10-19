@@ -47,7 +47,7 @@
   const en_destinations = ref([
     {
       id: 1,
-      image: '../src/assets/images/1.jfif',
+      image: 'https://th.bing.com/th/id/R.43a07ed40fba31cbee4afae3ff08088a?rik=gPzLgnKbJ3TtxQ&riu=http%3a%2f%2fimages.fineartamerica.com%2fimages-medium-large-5%2fchicago-skyline-from-navy-pier-ken-smith.jpg&ehk=f60%2fNra%2fCq%2fQYMql55ge5FblUD0RnooaiB40GHFYPic%3d&risl=&pid=ImgRaw&r=0',
       location: 'Manggarai Barat',
       title: 'Flores Road Trip 3D2N',
       duration: '3 Days',
@@ -55,7 +55,7 @@
     },
     {
       id: 2,
-      image: '../src/assets/images/2.jfif',
+      image: 'https://th.bing.com/th/id/R.82681e3678d785ab49281f9a30f9bf0e?rik=Qn5WGX0Ei0IJ5A&pid=ImgRaw&r=0',
       location: 'Manggarai Barat',
       title: 'Flores Road Trip 3D2N',
       duration: '3 Days',
@@ -63,7 +63,7 @@
     },
     {
       id: 3,
-      image: '../src/assets/images/3.jfif',
+      image: 'https://th.bing.com/th/id/OIP.jGnVF8XdAPDSF_T2jLhI9gHaEK?rs=1&pid=ImgDetMain',
       location: 'Manggarai Barat',
       title: 'Flores Road Trip 3D2N',
       duration: '3 Days',
@@ -71,7 +71,7 @@
     },
     {
       id: 4,
-      image: '../src/assets/images/4.jfif',
+      image: 'https://th.bing.com/th/id/R.20818cec32f3d4de67eb97b93f13baa0?rik=evfnrXa0qm1bPw&riu=http%3a%2f%2fg1.img-dpreview.com%2fE2A8206ABC1A4295A423B102F3D500AA.jpg&ehk=Ti%2bvufXvUTrKRUKyxUKYoqtyDiV%2bMO3%2biFnarq%2fLCcY%3d&risl=&pid=ImgRaw&r=0',
       location: 'Manggarai Barat',
       title: 'Flores Road Trip 3D2N',
       duration: '3 Days',
@@ -82,7 +82,7 @@
   const ar_destinations = ref([
       {
         id: 1,
-        image: "../src/assets/images/1.jfif",
+        image: "https://th.bing.com/th/id/R.43a07ed40fba31cbee4afae3ff08088a?rik=gPzLgnKbJ3TtxQ&riu=http%3a%2f%2fimages.fineartamerica.com%2fimages-medium-large-5%2fchicago-skyline-from-navy-pier-ken-smith.jpg&ehk=f60%2fNra%2fCq%2fQYMql55ge5FblUD0RnooaiB40GHFYPic%3d&risl=&pid=ImgRaw&r=0",
         location: "مانغراي بارات",
         title: "رحلة طريق فلوريس 3 أيام و2 ليلة",
         duration: "3 أيام",
@@ -90,7 +90,7 @@
       },
       {
         id: 2,
-        image: "../src/assets/images/2.jfif",
+        image: "https://th.bing.com/th/id/R.82681e3678d785ab49281f9a30f9bf0e?rik=Qn5WGX0Ei0IJ5A&pid=ImgRaw&r=0",
         location: "مانغراي بارات",
         title: "رحلة طريق فلوريس 3 أيام و2 ليلة",
         duration: "3 أيام",
@@ -98,7 +98,7 @@
       },
       {
         id: 3,
-        image: "../src/assets/images/3.jfif",
+        image: "https://th.bing.com/th/id/OIP.jGnVF8XdAPDSF_T2jLhI9gHaEK?rs=1&pid=ImgDetMain",
         location: "مانغراي بارات",
         title: "رحلة طريق فلوريس 3 أيام و2 ليلة",
         duration: "3 أيام",
@@ -106,7 +106,7 @@
       },
       {
         id: 4,
-        image: "../src/assets/images/4.jfif",
+        image: "https://th.bing.com/th/id/R.20818cec32f3d4de67eb97b93f13baa0?rik=evfnrXa0qm1bPw&riu=http%3a%2f%2fg1.img-dpreview.com%2fE2A8206ABC1A4295A423B102F3D500AA.jpg&ehk=Ti%2bvufXvUTrKRUKyxUKYoqtyDiV%2bMO3%2biFnarq%2fLCcY%3d&risl=&pid=ImgRaw&r=0",
         location: "مانغراي بارات",
         title: "رحلة طريق فلوريس 3 أيام و2 ليلة",
         duration: "3 أيام",
