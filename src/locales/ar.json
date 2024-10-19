@@ -1,0 +1,43 @@
+{
+  "navbar": {
+    "home": "الرئيسية",
+    "promo": "الترويج",
+    "my_booking": "حجوزاتي",
+    "sign_in": "تسجيل الدخول"
+  },
+  "mainSection": {
+    "header1": "اكتشف عوالمنا الجنة",
+    "header2": "وسافر إلى أي مكان الآن",
+    "one_way": "اتجاه واحد",
+    "round": "رحلة ذهاب وعودة",
+    "from": "من",
+    "from_trip": "السفر من",
+    "to": "إلى",
+    "to_trip": "السفر إلى",
+    "depart": "المغادرة",
+    "return": "العودة",
+    "cabin": "درجة المقصورة والمسافرين"
+  },
+  "destination": {
+    "title": "الوجهات الشهيرة",
+    "text": "عطلات لجعل تجربتك ممتعة في إندونيسيا!"
+  },
+  "footer": {
+    "about": "من نحن",
+    "support": "الدعم",
+    "get_app": "احصل على التطبيق",
+    "about_gooseflight": "حول جوسفلايت",
+    "how_it_works": "كيف يعمل",
+    "blog": "مدونة",
+    "forum": "منتدى",
+    "help_center": "مركز المساعدة",
+    "contact_us": "اتصل بنا",
+    "privacy_policy": "سياسة الخصوصية",
+    "terms_of_service": "شروط الخدمة",
+    "trust_and_safety": "الثقة والسلامة",
+    "accessibility": "إمكانية الوصول",
+    "tripma_android": "تريبما لأجهزة أندرويد",
+    "tripma_ios": "تريبما لأجهزة iOS",
+    "mobile_site": "الموقع المحمول"
+  }
+}

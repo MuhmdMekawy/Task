@@ -1,0 +1,67 @@
+// import variables 
+@import "./variables";
+@import "./generic";
+@import "./mixins";
+
+/* ----------------------------------MAIN BTN -------------------------------------- */
+.main-btn {
+	width: 100%;
+	padding: 8px 5px;
+	color: #fff;
+	background: $mainColor;
+  font-family: $mainFontFamily !important;
+	font-size: clamp(16px , 2.5vw , 20px);
+	font-weight: 600;
+	position: relative;
+	z-index: 3;
+	overflow: hidden;
+	border: 1px solid;
+	cursor: pointer;
+  border-radius: 50px;
+	&::after {
+		content: '';
+		position: absolute;
+		top: 0;
+		left: 50%;
+		width: 0;
+		height: 100%;
+		background: #fff;
+		z-index: -1;
+		transition: 0.3s;
+	}
+	&::before {
+		content: '';
+		position: absolute;
+		top: 0;
+		right: 50%;
+		width: 0;
+		height: 100%;
+		background: #fff;
+		z-index: -1;
+		transition: 0.3s;
+	}
+	&:hover {
+		&::after {
+			width: 50%;
+		}
+		&::before {
+			width: 50%;
+		}
+		color: $mainColor;
+		border: 1px solid $mainColor !important;
+	}
+}
+.main-btn.reversed {
+	background: #fff;
+	color: $mainColor;
+	border: 1px solid $mainColor !important;
+	&:hover {
+		color: #fff;
+	}
+	&::after {
+		background: $mainColor;
+	}
+	&::before {
+		background: $mainColor;
+	}
+}

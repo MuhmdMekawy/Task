@@ -1,0 +1,43 @@
+{
+  "navbar": {
+    "home": "Home",
+    "promo": "Promotion",
+    "my_booking": "My Bookings",
+    "sign_in": "Sign In"
+  },
+  "mainSection": {
+    "header1": "Discover Our Paradise Worlds",
+    "header2": "And travel anywhere now",
+    "one_way": "One Way",
+    "round": "Round Trip",
+    "from": "From",
+    "from_trip": "Traveling From",
+    "to": "To",
+    "to_trip": "Traveling To",
+    "depart": "Depart",
+    "return": "Return",
+    "cabin": "Cabin Class and Travelers"
+  },
+  "destination": {
+    "title": "Popular Destinations",
+    "text": "Vacations to make your experience enjoyable in Indonesia!"
+  },
+  "footer": {
+    "about": "About Us",
+    "support": "Support",
+    "get_app": "Get the App",
+    "about_gooseflight": "About GooseFlight",
+    "how_it_works": "How It Works",
+    "blog": "Blog",
+    "forum": "Forum",
+    "help_center": "Help Center",
+    "contact_us": "Contact Us",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_service": "Terms of Service",
+    "trust_and_safety": "Trust and Safety",
+    "accessibility": "Accessibility",
+    "tripma_android": "Tripma for Android",
+    "tripma_ios": "Tripma for iOS",
+    "mobile_site": "Mobile Site"
+  }
+}
