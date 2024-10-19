@@ -26,6 +26,7 @@
         <div class="item" v-for="destination in ar_destinations" :key="destination.id">
           <div class=image>
             <img :src="destination.image" alt="img" loading="lazy">
+            
           </div>
           <div class="location">
             <i class="pi pi-map-marker"></i>

@@ -34,8 +34,8 @@
   } = useHandleLang()
   // Array of languages with their corresponding images and names
   const languages = [
-    { name: 'العربية', value : 'ar' ,image: '../assets/images/ar.png' },
-    { name: 'الإنجليزية', value : 'en' , image: '../assets/images/en.png' },
+    { name: 'العربية', value : 'ar' ,image: '../src/assets/images/ar.png' },
+    { name: 'الإنجليزية', value : 'en' , image: '../src/assets/images/en.png' },
   ];
 
   // Set the default selected language
